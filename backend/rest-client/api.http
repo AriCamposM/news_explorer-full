@@ -1,0 +1,9 @@
+## Hacer un SignUp
+POST http://localhost:3000/signup
+Content-Type: application/json
+
+{
+  "password": "yourPassword123",
+  "email": "exaaampl4e@example.com",
+  "name": "Your Name"
+}
