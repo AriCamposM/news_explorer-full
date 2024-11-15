@@ -15,7 +15,7 @@ Puedes ver el proyecto en vivo aquí: [News Explorer](https://api.aricampos.ddns
 
 ## 🚀 Tecnologías Utilizadas
 
-- **Frontend**: React.js, CSS (con algún framework como Tailwind o Bootstrap)
+- **Frontend**: React.js, CSS
 - **Backend**: Node.js, Express.js
 - **Base de Datos**: MongoDB (para almacenar usuarios, noticias personalizadas y guardadas)
 - **API Externa**: [News API](https://newsapi.org/) para obtener noticias en tiempo real
