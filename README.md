@@ -4,7 +4,7 @@
 
 ## Enlace al Proyecto
 
-Puedes ver el proyecto en vivo aquí: [News Explorer](https://api.aricampos.ddnsfree.top)
+Puedes ver el proyecto en vivo aquí: [News Explorer](https://www.arinews.utdnews.com)
 
 ## 🌟 Características
 
