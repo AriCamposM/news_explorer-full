@@ -2,6 +2,10 @@
 
 **News Explorer** es una aplicación web que permite a los usuarios explorar noticias de diversas fuentes en tiempo real, filtrar temas de interés, y guardar noticias favoritas. Esta aplicación utiliza dos APIs: una API personalizada desarrollada para gestionar usuarios y el guardado de noticias, y la API de terceros [News API](https://newsapi.org/) para obtener noticias actualizadas de una variedad de fuentes.
 
+## Enlace al Proyecto
+
+Puedes ver el proyecto en vivo aquí: [News Explorer](https://api.aricampos.ddnsfree.top)
+
 ## 🌟 Características
 
 - **Exploración de Noticias en Tiempo Real**: Acceso a noticias actuales a través de la API de News API.
