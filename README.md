@@ -6,6 +6,10 @@
 
 Puedes ver el proyecto en vivo aquí: [News Explorer](https://www.arinews.utdnews.com)
 
+## Enlace al Frontend (JSX)
+
+Puedes ver el código del proyecto aquí: [News Explorer JSX](https://github.com/AriCamposM/news_explorer)
+
 ## 🌟 Características
 
 - **Exploración de Noticias en Tiempo Real**: Acceso a noticias actuales a través de la API de News API.
